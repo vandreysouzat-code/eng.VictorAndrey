@@ -1,4 +1,4 @@
-Olá, Victor Andrey 👋
+Olá, My name is Victor Andrey 👋
 
 Welcome to my GitHub! I am Software Engineering student. I am starting my journey in technology from the absolute zero, documentation-first. 
 
